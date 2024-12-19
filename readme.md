@@ -1,0 +1,1 @@
+This file will contain only javascript specific interview question asked in interviews
